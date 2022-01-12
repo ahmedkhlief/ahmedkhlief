@@ -1,4 +1,4 @@
-### Welcome to ahmedkhlief Repo , Enjoy purple team projects created with passion  ###
+### Welcome to ahmedkhlief Repo , Enjoy red and blue team projects created with passion  ###
 <a href="http://shells.systems">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedkhlief&show_icons=true&line_height=33&count_private=true&theme=dark" alt="Askar's GitHub Stats" />
 </a>
